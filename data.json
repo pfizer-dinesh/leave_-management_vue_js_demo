@@ -1,0 +1,100 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Dinesh",
+      "last_name": "Bhojvani",
+      "email": "bhojvani@gmail.com",
+      "leave_from": "2022-09-23",
+      "leave_to": "2022-09-14",
+      "leave_type": "sick",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra"
+    },
+    {
+      "first_name": "Ashna",
+      "last_name": "Quershi",
+      "email": "ashna@gmail.com",
+      "leave_from": "2022-09-22",
+      "leave_to": "2022-09-22",
+      "leave_type": "casual",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Rick",
+      "last_name": "Smith",
+      "email": "Smith@gmail.com",
+      "leave_from": "2022-09-22",
+      "leave_to": "2022-09-23",
+      "leave_type": "casual",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra"
+    },
+    {
+      "id": 4,
+      "first_name": "Tanvi",
+      "last_name": "Vaghela",
+      "email": "tanvi@gmail.com",
+      "leave_from": "2022-09-26",
+      "leave_to": "2022-09-27",
+      "leave_type": "sick",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra"
+    },
+    {
+      "first_name": "Krupa",
+      "last_name": "Mistry",
+      "email": "krupa@gmail.com",
+      "leave_from": "2022-09-29",
+      "leave_to": "2022-09-30",
+      "leave_type": "casual",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra",
+      "id": "5"
+    },
+    {
+      "first_name": "Thiago",
+      "last_name": "De Souza",
+      "email": "thiago@gmail.com",
+      "id": "ZEhUw13"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Jones",
+      "email": "max@gmail.com",
+      "id": "ZvEQ74o"
+    }
+  ],
+  "leave_data": [
+    {
+      "emp_id": "ZEhUw13",
+      "leave_from": "2022-10-05",
+      "leave_to": "2022-10-08",
+      "leave_type": "casual",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra",
+      "id": 1
+    },
+    {
+      "emp_id": "5",
+      "leave_from": "2022-10-20",
+      "leave_to": "2022-10-29",
+      "leave_type": "casual",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra",
+      "id": 2
+    },
+    {
+      "emp_id": "ZvEQ74o",
+      "leave_from": "2022-10-05",
+      "leave_to": "2022-10-05",
+      "leave_type": "sick",
+      "leave_status": "pending",
+      "approved_by": "Harshika Chhabra",
+      "id": 3
+    }
+  ]
+}
